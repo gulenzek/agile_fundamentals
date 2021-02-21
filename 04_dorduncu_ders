@@ -1,0 +1,201 @@
+Agile Notlar
+--------------------------------------------------------
+
+US13 - Yönetici olarak sistemde yeni bir proje tanımlayabilmeliyim.
+Tasks:
+Responsive web arayüzünün oluşturulması
+MSSQL de tabloların ilişkilerin ve indekslerin oluşturulması
+Fonksiyonel testlerin yapılması
+
+
+US01 - Sisteme farklı kategoride insanlar olarak giriş yapabilmeliyim.
+Tasks:
+- Responsive web arayüzünün oluşturulması
+- SQL tabloların ilişkilerin ve indekslerin oluşturulması
+Fonksiyonel testlerin yapılması.
+Teknik dokümantasyon yapılması
+
+
+US12 - Oyunlaştırma uygulamasının sistem üzerinde oluşturulmasını sağlamalıyım.
+Tasks:
+- Yapılan şeylerin yapılma puanlarının belirlenmesi
+- Responsive Web arayüzünün hazırlanması
+- SQL tablolarının ilişkilerinin belirlenmesi, indekslenmesi
+
+
+US15 - Vatandaş olarak sisteme dilekçe girebilmeliyim.
+Tasks:
+Responsive Web arayüzünün ouşturulması.
+MSSQL'de tabloların oluşturulması.
+Test datalarının sisteme girilmesi.
+Fonksiyonel testlerin yapılması. 
+
+US17 - Çalışan olarak sisteme girilen dilekçelerden ortaya çıkan işlerin atanması
+Tasks:
+Responsive Web arayüzünün ouşturulması.
+MSSQL'de tabloların oluşturulması.
+Test datalarının sisteme girilmesi.
+Fonksiyonel testlerin yapılması. 
+
+US19 - Yönetici olarak sistemdeki işlerin hangi aşamada olduğunu görmeliyim.
+Tasks:
+Responsive Web arayüzünün ouşturulması.
+MSSQL'de tabloların oluşturulması.
+Test datalarının sisteme girilmesi.
+Fonksiyonel testlerin yapılması. 
+--------------------------------------------------------------------
+
+(Detay analizinin yapılması)
+Arayüzün tasarımı
+Tablo tasarımı
+Kodun yazılması
+Test
+Dokümantasyon
+
+
+
+
+Developer bilgileri kullanarak Tasks oluşturmalı. // Dikkat!
+Dokümantasyon Product Owner'la bir arada yapılabiliyor. Konuşmamız bunu şekillendiriliyor.
+Açıklama olmamalı. Tasksler yazılmalı.
+Formun tasarlanması
+
+Takibini kolaylaştırmak / Farklı kişilere atayabilmek. / 
+
+
+Alihan
+---------------------------
+Öğrenci olarak satın aldıklarımı görüntüleyebilmeliyim
+
+Tasks:
+Windows Form uygulaması olacak
+Pageleme şeklinde olacak.
+Tasarım olarak yapılması
+Windows Formun düzenlenmesi
+Veritabanlarını ve ilişkilerin oluşturulması
+Kabul şeklinde kodlanması
+Gerçekleştirilmesi.
+Dokümantasyon yok. :)
+
+US02
+Öğrenci olarak yemek alabilmeliyim.
+Tasks:
+
+Serdar
+Önceki randevuları gösterebilmeliyim.
+Tasks:
+User Story'den taska dönüştürebilmeliyiz... Dikkat
+
+
+
+
+- proje listeleme
+- proje görüntüleme
+- proje kapatma
+- proje güncelleme
+- yönetici olarak çalışanlarıma görev tanımlayabilmeliyim
+görevleri listeleme
+görev güncelleme
+görev silme
+çalışan olarak bana atanan görevleri listeleyebilmeliyim
+çalışan olarak göreve ilerleme girişi yapabilmeliyim
+
+
+
+İyi bir user story yazmak için;
+
+INVEST olmalı.
+
+Independent
+Negotiable - Müzakere edilebilir olmalı. PO'de Dev-Team'de aynı şekilde olmalı.
+Valuable - Her User storynin değer üretebilmesi lazım.
+Estimable - olması lazım. Ne kadar sürede bitirilmesi lazım.
+Small - (Sized appropriately)
+Testable - Test edilebilir olmak zorundalar. USER STORY.
+
+
+Product Backlog::
+========================================================
+Bir ekran bir feature a denk gelmiyor. User Story olmalıdır.
+İki ekran bir feature a denk gelebiliyor.
+Ekranla işlem birebir olmayabilir.
+Free form test: "Kullanıcı giriş ekranı" vesair.
+
+Defects = Bugs
+
+Technical work.
+
+Proof of Concept
+
+Proof of Technology
+
+Ürünün ürün olarak yer alması gerekiyorsa bir user story olabilir. Dikkat!
+
+
+
+Produc Backlog: EPIC: Örneğin diyorki, Şikayet istek. Destan anlamına geliyor.
+
+
+Product Owner: sürekli Product Backlog'la çalışır. Geliştirme ekibi ile de çalışabilir.
+
+DEEP: 
+Detailed Appropriately
+Estimated
+Emergent
+Prioritized
+
+Product Owner işin merkezindedir.
+Internal / External stakeholders - Scrum Master + Scrum Team + Development Team
+
+
+15 m2 bir duvarın boyanması = 15 m2 bir duvarın boyanmasıdır.
+
+Compexity - Size karıştırmayalım.
+
+Geleneksel yöntemle tahminde bulunup ne kadar zamanda yapılır.
+
+Yazılımın metre, kilometre gibi bir ölçüm birimi yok. 
+Functional Cosmic Point ??
+
+Elma, Yol vesair ???
+
+Affinity Estimation:
+
+Smaller - Larger
+
+User Story Point: Kendi referansımızı oluşturacağız. Dikkat!
+
+Story Point'de deniliyor.
+
+Trello
+
+XS S M L XL XXL
+
+Puanlama önemlidir. Törensel şekilde yapılır. Bu ritüelleri uygulamalıyız.
+
+User story devreye alındığında nasıl olacağı
+
+
+Ben ne demo yapacağım. Product Owner'a nasıl bir iş göstereceğim. Kodlayan ne yapıyor.
+Öyle bakın, puan verin.
+
+Definition of Done
+==========================================
+- Her 10 satırda 1 satır commenting istiyorum (10% code commenting)
+- çapraz test: kimse kendi yazdığı kodu test edemez. Dikkat!
+- performans testi yapılacak.
+- gözden geçirme (peer review)
+- bütün ekranlarda sol üst tarafta şirket logosu olmalı
+
+Kabul kriterleri:
+
+- geçerli kullanıcı girecek.
+- geçersiz kullanıcı girmeyecek.
+Definition of Done orijinal guide'da yer alır.
+
+
+
+DEFINITON OF READY
+- Mutlaka her user story için ekran prototipi çizilmiş olmalıdır.
+- Her süreç için akış çizilmiş olmalıdır
+- iş kuralları ve hasaplama formülleri yazılı olarak iletilmelidir.
