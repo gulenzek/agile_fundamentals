@@ -1,0 +1,227 @@
+Çevikten alabileceğiniz en yüksek faydayı alamamak.
+
+İnsan faktörü - takim faktörü var Zor bir süreç
+
+SCRUM
+1) Şeffaflık
+
+2) Ölçmek / Denetlemek
+
+3) Adaptasyon
+
+
+Scrum Core Values (Öz değerleri)
+---------------------------------
+1) Cesur olun! (Courage)
+2) Odaklanın ! (Focus) = Business value! Değer üretiyor muyum?
+İş yapıyor muyum?
+3) Adanmışlık - (Commitment): Ürünü bitirmek! Dert etmek! Sahip çıkmak! Çevik takımlarda işi sahiplenen
+insanlarla çalışmak lazım! Komandolar lazım!
+4) Saygı - (Respect): Adam yerine koymak.
+5) Açıklık - (Openness): Oyunu açık oynamak!
+
+
+6 SCRUM Principles
+------------------
+Time boxing: Zaman sınırlı çalışmalar edinin.
+Toplantılar zaman sınırlı olsun.
+Tekrarlayan geliştirm
+
+The Gurus
+-----------------------------------------
+Ken Schwaber
+Jeff Sutherland
+Mike Beedle
+Mike Cohn
+Yaşıyorlar..
+-----------------------------------------
+
+SCRUM Framework
+-----------------------------------------
+Kadir Hoca, PDF paylaşacak!
+
+Sprint - Sprintler var..
+Time-Boxed: Zaman sınırlı.
+1-4 week(s)
+
+2-3 hafta dünyada en sık kullanılan sprint aralığı
+
+Extreme programming'de 1 haftayken AGILE'de 2-3 hafta
+
+Product Owner - İşin sahibi
+=====================================================================
+Ürün başarısı nedir? => Proje başarılı olmuştur ama ürün başarısız olabilir. İş birimi ölçütleri söyler,
+üzerinde belirlenir.
+Key Performance Indıcator ()Başarılı olarak ölçmek için ne yapmak gerekir.
+Regulasyon - Kanuni zorunluluk projeleri vs.
+VIP talep geldiyse yapacaksınızdır.
+Product features: Ürünün sahip olması gereken ekranlar, joblar, batchlar vesair. Featuredır.
+Türkiye'de 2 hatfa kullanılıyor. Dikkat!
+Product Backlog: Ürün features fihristi.
+Return on Investment: Yatırılan paranın ne zaman geri döneceği. Dikkat!
+10 yıllık br projeye para yatırmaz. Tazedirekt örneği. dikkat...
+
+
+Product owner: Gereksinimlerle ilgili son sözü söyler.
+Pure SCRUM anlatıyorum.
+Product owner: Sprintlerdeki çıkan şeyleri kabul veya reddeder.
+Patron gibi..
+Ne zaman devreye alınıp alınmayacağını belirler.
+Projeyi lağvedebilir. Dikkat!
+Paydaşlarla o görüşür. Product owner.
+Sponsor: son kişi
+
+Paydaş = Stakeholder: Projedene etkilenen veya projeyi etkileyen herkes.
+
+
+SCRUM Master:
+========================================================================
+Facilitator: İşleri kolaylaştıran, SCRUM master SCRUM'ın en güzel şekilde yapılmasını sağlayan 
+kişidir. Takımlaşmamıza yardımcı olur.Master. Retrospective'lerde yardımcı olur. Schield'dır aynı zamanda.
+
+impediment: engeller vesair. anlamına bak..
+
+Not alacağım.
+
+Development Ekibi:
+======================================================================
+Geliştirme ekibi.
+
+3-9 kişiden oluşur.
+
+SPRINT backlog adı verilen bir tablo oluştururlar.
+
+Sprint Review.
+Bir odada beraber olmalarında fayda vardır.
+Self-organizing'dir. Herkes kendisi hareketlidir. Kimse kimseye iş atmaası yapamaz.
+Herkes gidip kendi işini kendi yapar.
+
+cross-functional: Product Backlog'da yazılı şeyleri ürüne çevirebilecek
+Full-stack denen birşey olabilir.
+
+Herkes SCRUM developerdur.
+defect = buglar..
+
+
+SCRUM Framework
+==================================================
+Detaylandırılmıştır.
+PBI = Product Backlog Item
+Features
+Product Backlog'dan Sprint Backlog'a konuyor.
+Planlama var. Sprint sayısı kadar.
+SCRUM Master denetler. Sadece denetler.
+
+
+
+4 haftalık SPRİNT için 8 saattir.
+Time-Boxed: Dikkat
+
+1 haftalık için 2 saattir. Bu toplantının süresi.
+
+SPRINT Backlog
+==============================================
+
+
+Daily SCrum
+==============================================
+Teker teker ben dün ne yaptım. Bugün ne yapacağım. 
+
+DONE = Definition of DONE
+Product Owner'a bakacağız.
+
+SPRINT Retrospective
+================================================
+Handikapları var. Dikkat..
+
+Eksik ve hata arandığında kavgaya dönüşebiliyor.
+------------------------------------------------
+
+SCRUM Master: Süreç koçudur. Dikkat..
+
+Geleneksel Proje Yönetimi ve SCRUM vs.
+
+Çatışmada:
+
+Estimation: PY ya da  teknik takım yapabilir, kuruma gre değişir.
+SCRUM'da açıkça yapılabilir.
+
+Başarı sorumluluğu: Projede başarı, Ürün kalitesi.
+
+Py - PO ??
+
+Ürün kalitesi: HERKESİN SORUMLULUĞUDUR. Hatalı ürünün canlıya çıkması TESTER HATASIDIR.
+
+Test Case yazmayı Test eğitiminde yapacağız.
+
+PY görev ataması yapar - Dev Team (içindeki herkes) görevi kendisi alır.
+PY risk yönetimini yapar - Büyük resimde, ürünün bütününde PO yapar, ama sprint düzeyinder risk yönetimi yoktur.
+Yazlıımcı geliştirme yapar - Dev Team
+Test uzmanı test yapar - Dev Team
+PY ROI belirler - PO belirler
+Analist analiz yapar - PO ürünü tanımlar, dev team ne yapılacağını anlmaya çalışır, sorgular, detaylandırır.
+PY çatışma yönetimi yapar - Scrum da çatışma içindekiler arasında çözülmesi beklenir. Çözülmezse SM devreye girer.
+Estimation belirlemede PY ya da teknik takım yapabilir, kuruma göre değişir - Estimaion dev team tarafından yapılır.
+Görev takibini PY yapar - Görev akışı açıkça paylaşılır. İlla paydaşlara rapor verilmesi gerekiyorsa PO tarafından verilir.
+Başarı sorumluluğu -
+
+
+Projede başarı - Ürün başarısı - PO / sprint başarısı - Dev Team / scrum başarısı- 3 rolde **SM
+
+Ürün kalitesi - HERKESİN SORUMLULUĞUDUR - HATALI ÜRÜNÜN CANLIYA ÇIKMASI TESTER HATASIDIR.
+Paydaş yönetimi analist ve py tarafından yapılır - PO yapar.
+
+=========================================================================================
+
+Metafor: Hayali bir SCRUM kurgusu yapacağız. 12 sprintten oluşan proje.
+
+Öngörülen bir bitiş tarihi yoksa operasyon
+Proje yeni bir ürün ortaya konan. Unique olacak ve sonuç üretecek.
+
+Ara teslimatları olmalı.
+
+
+-------------------------------------------
+
+Bir firmanın dağıtım servisini oluşturmak
+___________________________________________
+
+Bir araç satın alınarak yakın çevredeki dağıtım yapılacak yerlerin belirlenerek dağıtımın yapıması
+
+Ürün Sahibi (Product Owner): Şirketin sahibidir.
+
+Geliştirme Ekibi (Development Team): 4 kişi olarak düşünülmüştür. Bu ekip yükleme/boşaltma/araç kullanma şeklinde işler yapmaktadır.
+Sürücü / Taşıyıcı / Güncelleyici ve Yedek Sürücü
+
+Scrum Uzmanı (Scrum Master): Dağıtımın yapılacağı bölgeyi bilen ve araç kullanabilen bir şahıs işe alınabilir.
+Dağıtımdan anlayan ve bu işi direkt yapabilen bir elemandır. Uzman Dağıtıcı
+
+Sprint Planlama Toplantısı (Sprint Planning Meeting): Sprintte belirlenecek şeylerin konuşulduğu toplantıdır.
+Neler yapılacağı kararlaştırıldı.
+
+Günlük Scrum Toplantısı (Daily Scrum Meeting): Gelecek 24 saat için neler yapılacağı bölgede yer alan dükkan ve mağazaların belirlenmesi. 
+Ve bunun gerçekleştirilmesi için yapılması gereken şeyler konuşulur.
+
+Sprint Değerlendirme Toplantısı (Sprint Review Meeting): 
+
+Sprint Süreç Değerlendirme Toplantısı(Sprint Retrospective Meeting)
+Nerede sıkıntı yaşanıyor nerede hangi araç gerekiyor vesair Burada ortaya çıkar.
+
+6 Sprintten oluşan, 2 haftalık bir Sprint düşünülmüştür.
+
+1. Sprintte Başakşehir Bölgesinde yer alan dükkan ve mağazalara Tekstil ürünlerinin dağıtımı sağlanacaktır. 
+Bunun için mağaza ve dükkanlar belirlenmiş ve işe başlanmıştır.
+2. Geliştirme ekibine sağlanan bir araba üzerinde farklı tekstil ürünlerini belirtilen yer ve adresteki şahıslara ulaştırılması sağlanmıştır.
+3. Gidilemeyen yerler belirlenmiş ve bu gidilemeyen yerlere bir sonraki günlerde gidilecek şekilde ayarlanmıştır.
+4. Elde olan ürünler bölgedeki tüm yerlere ulaştırılmış ve yeni yerler aranmaya başlanmıştır. Aynı şekilde yeni yerlerin eski yerlerden 
+alınan bilgiler dahilinde güncellenmesi sağlanmıştır.
+
+2. Sprintte yakın bölgede yer alan dükkan ve mağazalar belirlenmiş ve buradaki yerlere dağıtıma/güncellemeye/vesair başlanmıştır.
+
+3. Sprint
+
+4. Sprint
+
+5. Sprint
+
+6. Sprintte Dünya çapında bir alana ulaştırıldı.
