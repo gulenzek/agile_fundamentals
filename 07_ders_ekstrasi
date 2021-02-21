@@ -1,0 +1,76 @@
+Çevik bir şemsiye
+
+Çevik prensiplere dayanır.
+Geleneksel yöntemde 
+Müşteriye açık olun.
+Proje ekibinin değişime açık olması AGILE 'da önemli. ÇEVİK.
+
+Kimlerle başlandıysa onlarla devam edilmeli.
+
+Planning poker'de puanlama kendi arasında anlamlı.
+
+Product Owner veya
+
+
+------------------------------------------------
+
+Kanban - Agile'ın yöntemlerinden birisidir.
+
+3 Kuralı vardır.
+
+1 - Görselleştir
+ İşleri paralelde yapmak
+
+ - Başlamayı bitir, bitirmeye başla.
+
+2 - Limit work in process..
+
+3 - Manage flow = inspect and adapt..
+
+Kanban rol dayatması yapmıyor. Nasılsanız oyle devam edebilirsiniz.
+
+KANBAN Sütunları
+===================================================
+Backlog - Yapılacak işler. Kırmızı arkadaş gelen işleri biriktiriyor. Ve yapılacak işleri önceliklendiriyor.
+Proje yöneticisi
+Selected - 
+
+Develop - 
+ - Ongoing: Yazılım ekibi A ve B'yi aldılar. 
+ - Done: A buraya geliyor.
+
+Bazen 3'e çıkabiliyor. 2'de kalabiliyor.
+
+WIP (Work in process): 2 tane konulmuş. 4 iş almıyorlar
+
+Kanban iş yapsınlar diye tasarlanmış bir yöntem değil.
+Çevik felsefeye hızlı bir şekilde iş çıkartmak.
+İnsanların iş yapıp yapmaması önemli değil.
+
+Deploy - Evet
+
+Live - 
+
+
+Kanban'da da işi yapmak herkes tarafından verilebilir.
+
+
+Analiz - Tasarım - Kodlama - Test - Canlıya Alma
+Analiz kısmında: Ongoing / Done gibi iki sütuna ayrılıyor.
+
+Rakamlar önemli. Yapılacak işlerin sayısı. Eğer tasarım vesair.
+
+Tasarım içinde Ongoing / Done olması lazım.
+
+=======================================================
+Kanban'a Başlamak
+
+Start with what you do now
+Modify it slightly to implement pull
+Use a transparent method for viewing work, and organizing the team
+..
+
+Sharepoint = herşeyiyle hazır.
+
+
+= ScrumBan = Scrum + Kanban
