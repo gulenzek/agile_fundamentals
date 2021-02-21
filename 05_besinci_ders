@@ -1,0 +1,98 @@
+Banka müşterisi olarak dilediğim zaman ATM'lerden para çekebilmeliyim.
+
+Detay kısmına geçiyoruz.
+
+ROLLER: Banka müşterisi (BM)
+
+BM kartını takıp şifresini girer
+Ana menüden Para Çekmeye basar
+Gelen ekrandan hesaplarını ve bakiyesini görür. Para çekmek istediği hesabı
+seçer ve miktarı girer.
+Sistem ona onay ekranını gösterir. BM onaylar.
+Sistem bakiyesini kontrol eder, küpür durumunu kontrol günlük para çekme
+limit durumları bakar.
+
+Önce kartı verir.
+Sonra parayı verir.
+Sistem son olarak karşılama ekranını yükler.
+
+Kabul kriteri:
+Normal bir durumu test ederim. Kişinin hesabına X+ para yatırırım, X TL çekerim.
+
+Günlük para çekme limitini doldururum. (3000) Para çekme durumunda bunu 
+yönetebiliyor mu sistem bakarım.
+
+Bakiyesi üzerinde para çekme isterse kredilendirerek para çekmek isteyip istemediği soruluyor mu?
+
+Küpür uyumsuzsa küpüre göre sistem bir miktar belirtmeli
+
+DİĞER NOTLAR:
+
+İŞ KURALLARI:
+
+Dün Planning Poker oynadık.
+
+
+
+
+
+
+
+Product Backlog nasılbirşey?
+PRODUCT OWNER; listeyi sıralar, önümüzdeki iki haftalık sprinti bitirdiğimizde hangi şeye müşteri bakar? diye sorar.
+
+
+SPRINT BACKLOG: TO DO
+
+
+SPRINT BACKLOG:
+
+Ne kadar iş yapabileceğinizi kafamızda oluşturmamız lazım.
+
+Çizgiyi çekerken cesur olup bitirebildiğimiz kadarını almalıyız.
+
+Kabul Kriteri: Projeler kullanıcıya göre otomatik olarak yönetilmeli.
+
+vesair.
+
+Gelitşrime ekibi kendi arasında görevler isimli bir liste oluşturması gerekiyor.
+
+
+Görevler: (Kontrol listesi oluşturma)
+====================================================================
+
+Yeni proje oluşturma
+YPO için tabloları tasarımlama
+
+Kabul kriterleri
+Dokümantasyon vesair.
+%'sini gösteriyor.
+
+KABUL KRİTERLERİ
+===================
+Aynı anda iki tane prje oluşturulmamalı.
+
+
+
+ESTIMATION
+=====================================================================
+Tasks estimationlarını belirlememiz lazım.
+
+Tekrar test otomasyon.
+
+DOD testlerini yapma.
+
+
+
+BURNDOWN CHART
+=============================
+
+
+SCrum Master: Daily Scrum'dan aldığı listeyi düzetlemeye çalışacak.
+
+İşin kalitesini, bitmişliğini belirleyene kriterler. Definition of Done bir liste.
+
+
+DOD = Genel ve ortak olan kriterlere deniliyor.
+
+Daily Scrum = Dev Team katılır. SCrum Master yapılıp yapılmadığını kontrol eder. PO yoktur.
