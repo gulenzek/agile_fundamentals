@@ -21,69 +21,68 @@ kadir.camoglu@bilgeadam.com
 Başında Analiz geliyor.
 
 1 - Analiz
-----------------------------------
+------------------------------------------------------------------------------------------------------
 İş analizi = Gereksinim mühendisliği
 Business analysis - özünde o var
 
 2 - Design - Mimari modelleme - Tasarım
-----------------------------------
+------------------------------------------------------------------------------------------------------
 UML / Use case
 Desktop , Client-Server vesair modelleme..
 
 N-tier - Çok katmanlı.
 
 3 - Kodlama - Construction (Bazen Development olarak geçiyor)
---------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 Burada İş bitmiyor.
 
 4 - Test ve Stabilization - Test ve stabilizasyon
---------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 5 - Deployment - Devreye alma
-----------------------------------
+------------------------------------------------------------------------------------------------------
 
 Tek başına çalışan uygulama:
 Standalone uygulama = Notepad, calculator, Paint ve benzeri.
 
 
-Web uygulamasında değişiklik yaparsanız kimsenin haberi olmaz.
+--> Web uygulamasında değişiklik yaparsanız kimsenin haberi olmaz.
 
 
-DEVOPS - 15 yıldır böyle bir kavram var.
-OPS = Operations 
+--> DEVOPS - 15 yıldır böyle bir kavram var. 
+Software Development + IT Operations birleşimi bir kelime.
+--> anlamı: "a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, 
+while ensuring high quality"
+
+--> OPS = IT Operations 
 
 Development kendi operasyonunu kendi yürütmeli.
 
 Bellek yetmiyorsa başka biri yapsın.
 
-
 SDLC = kafamızda nasıl oturdu?
-----------------------------------------------------------------
-
+------------------------------------------------------------------------------------------------------
 Küçük projelerde developer bunun hepsini yapabiliyor.
 
 Roller neler???
-----------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
 
 SDLC ROLLER
-------------
-- Developer : Yazılımcı
-
+------------------------------------------------------------------------------------------------------
+--> Developer : Yazılımcı
 	Uzmanlaşmaya başladılar ve..
 	- Frontend / Backend
 	- Full stack
-
-- Analist: İş/Sistem/Teknik Analist oluyor. Biz İş Analistini kullanıyoruz.
-
+--> Analist: İş/Sistem/Teknik Analist oluyor. Biz İş Analistini kullanıyoruz.
 	Gereksinimleri doğru bir şekilde toplamak.
 
-- Solution Architect:
+--> Solution Architect:
 	Analistin getirdiği şeyin nasıl bir çözümle sağlanacağını belirler.
 	Nasıl? Kıdemli developer bazen bu işi yapar.
 	Web mi Client/Server'la mı yapalım. Object oriented mi yoksa başka bir şekildem i
 	yapalım.
 CRUD = Create/Retrieve/Update/Delete
 
-- Tester: Test uzmanı
+--> Tester: Test uzmanı (expected results = actual results)
 	Kontrol
 	Analizde istenileni developer istendiği gibi yapmış mı?
 	Senaryolara uyuyor mu?
@@ -91,13 +90,13 @@ CRUD = Create/Retrieve/Update/Delete
 	Stabilize etmek. Kararlı hale getirmek.
 	Kararlı bir hale getirmek.
 
-- Release Management: Sürüm yöneticisi
-
+--> Release Management: Sürüm yöneticisi
 	Devreye almak.
+
 Hedeflenene kullanıcının Kullanıcı (Human Computer Interaction) etkileşebiliyor mu?
 Kullanıcı ekrana baktığı zaman çözmek istiyor.
 
-Outlook örneği "attach falan yazmıştın" birşeyler ekleyecek misin?
+Outlook örneği "attach falan yazmıştın" birşeyler ekleyecek misin? gibi sorular..
 
 Deneyim kazandıkça daha fazla keyif alıyorsun.
 
@@ -110,11 +109,9 @@ Herşey siz olabilirsiniz.
 
 SDLC'den farklı bir yapıda beraber çalışırlar.
 
-
--------------------------------------------------------
-
-Proje Başarısı=
--------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+Proje Başarısı =
+------------------------------------------------------------------------------------------------------
 
 Budget / Time / Quality in SCOPE
 
@@ -199,6 +196,12 @@ AGILE küçük işlere böl ve parça parça yap.
 
 Geleneksel yöntemde 12 aylık bir projede 11. ayda müşteriye verilecek 
 tek birşey yoktur.
+
+--> Agile nedir? 
+	- Kaliteli ve daha hızlı erişmelerini sağlayan tam zamanında üretim sistemini destekleyen bir YAKLAŞIM ve DAVRANIŞLAR Frameworküdür.
+
+--> Agile ve Geleneksel proje yönetimi (Waterfall = Şelale) arasındaki farklar nelerdir?
+	- Agile: tasarım, geliştirme, test etme ve diğer bölümlerin küçük parçacıklar üzerine aynı anda çalışmayı desteklerken geleneksel yaklaşımsa aksine sıradaki aşamaya geçerken bir öncekini tamamlamak üzerinedir.
 
 --------------------------------------------------------------------
 
