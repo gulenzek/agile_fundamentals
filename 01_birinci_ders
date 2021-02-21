@@ -1,0 +1,241 @@
+Kadir Çamoğlu
+BilgeAdam ARGE-İnovasyon
+Yazılım Proje ve Kalite Yönetimi Birim Müdürü
+kadir.camoglu@bilgeadam.com
+
+--> İyi test iyi analiz yapılmazsa işler doğru yürümüyor.
+--> AGILE yazılım süreci çerçevesinde ele alacağım.
+--> Patternler var. Doğru yazılım için analiz yapılması lazım.
+--> Dokumantasyon Türkiye'de yok.
+
+--> Kulaktan kulağa söyleme oyunu.
+
+--> SDLC = Software Development Life-Cycle
+
+--> Yazılım geliştirme yaşam döngüsü
+
+--> Araba üretecekseniz, öncesinde tasarım montaj vesair.
+
+--> Yazılımında böyle birdöngüsü var.
+
+Başında Analiz geliyor.
+
+1 - Analiz
+----------------------------------
+İş analizi = Gereksinim mühendisliği
+Business analysis - özünde o var
+
+2 - Design - Mimari modelleme - Tasarım
+----------------------------------
+UML / Use case
+Desktop , Client-Server vesair modelleme..
+
+N-tier - Çok katmanlı.
+
+3 - Kodlama - Construction (Bazen Development olarak geçiyor)
+--------------------------------------------------------------------
+Burada İş bitmiyor.
+
+4 - Test ve Stabilization - Test ve stabilizasyon
+--------------------------------------------------------------------
+5 - Deployment - Devreye alma
+----------------------------------
+
+Tek başına çalışan uygulama:
+Standalone uygulama = Notepad, calculator, Paint ve benzeri.
+
+
+Web uygulamasında değişiklik yaparsanız kimsenin haberi olmaz.
+
+
+DEVOPS - 15 yıldır böyle bir kavram var.
+OPS = Operations 
+
+Development kendi operasyonunu kendi yürütmeli.
+
+Bellek yetmiyorsa başka biri yapsın.
+
+
+SDLC = kafamızda nasıl oturdu?
+----------------------------------------------------------------
+
+Küçük projelerde developer bunun hepsini yapabiliyor.
+
+Roller neler???
+----------------------------------------------------------------
+
+SDLC ROLLER
+------------
+- Developer : Yazılımcı
+
+	Uzmanlaşmaya başladılar ve..
+	- Frontend / Backend
+	- Full stack
+
+- Analist: İş/Sistem/Teknik Analist oluyor. Biz İş Analistini kullanıyoruz.
+
+	Gereksinimleri doğru bir şekilde toplamak.
+
+- Solution Architect:
+	Analistin getirdiği şeyin nasıl bir çözümle sağlanacağını belirler.
+	Nasıl? Kıdemli developer bazen bu işi yapar.
+	Web mi Client/Server'la mı yapalım. Object oriented mi yoksa başka bir şekildem i
+	yapalım.
+CRUD = Create/Retrieve/Update/Delete
+
+- Tester: Test uzmanı
+	Kontrol
+	Analizde istenileni developer istendiği gibi yapmış mı?
+	Senaryolara uyuyor mu?
+	Çalışıp çalışmadığını kontrol eder.
+	Stabilize etmek. Kararlı hale getirmek.
+	Kararlı bir hale getirmek.
+
+- Release Management: Sürüm yöneticisi
+
+	Devreye almak.
+Hedeflenene kullanıcının Kullanıcı (Human Computer Interaction) etkileşebiliyor mu?
+Kullanıcı ekrana baktığı zaman çözmek istiyor.
+
+Outlook örneği "attach falan yazmıştın" birşeyler ekleyecek misin?
+
+Deneyim kazandıkça daha fazla keyif alıyorsun.
+
+Proje yöneticisi: Büyük projelerde "orkestra şefliği" yapılması lazım.
+Kim ne zaman hangi görevi yapacak? Genel olarak Proje Yöneticisi olmak lazım.
+
+Kurumlar analistle + developer vesair.
+
+Herşey siz olabilirsiniz.
+
+SDLC'den farklı bir yapıda beraber çalışırlar.
+
+
+-------------------------------------------------------
+
+Proje Başarısı=
+-------------------------------------------------------
+
+Budget / Time / Quality in SCOPE
+
+Project Management Institute
+
+Budget = Bütçe
+Time = Zaman
+Quality = Yazılımda olan Ekran, Batch, Job 
+
+
+Tüm dünyada yazılım projelerinde başarı oranı 30%
+
+Challenge Projeler: Hayata geçirilen projelere deniliyor. 
+
+Standish group: Chaos Manifest / Chaos report diyorlar.
+
+1950'lerde yazılım mühendisliği konuşuluyordu. 1970 OOP/RDBMS vesair.
+
+100 özellikten
+7% Always 13% often 45% Never
+-----------------------------
+
+İş dünyası çok hızlı ve dinamik ve hareketli bir yer.
+
+AGILE = Cheetah = Çevik..
+
+--------------------------------------------------
+
+Talep yönetimi / Paydaşların dahil edilmesi / Değişimin yönetilmesi 
+
+Doğru analiz / Doğru Proje yönetimi vesair asıl projeleri kötü bir 
+şekle sokan kısım.
+Yazılım 5%'i geçmiyor.
+
+---------------------------------------------------
+
+Agile 
+---------------------------------------------------
+Sol tarafa fact gerçektir
+Facts
+--------------------------------------
+Agile her zaman uygulanabilir.
+Agile her bütçe ile uygulanabilir.
+Agile başarıyı getiren bir etmendir.
+
+
+
+
+Myths
+--------------------------------------
+Agile başarı oranı çok yüksektir.
+
+
+
+--------------------------------------------
+
+Dr. Winston Royce
+
+Requirement Analysis
+Design
+Code
+Integration
+Test
+Deploy
+1970 yılında
+
+Şelale yöntemi deniliyor. Waterfall
+
+
+MS - Solutions Framework
+
+IBM - 
+Prince, Prince2 İngiltere'de uygulanan bir yöntem.
+
+Dokümantasyona dayanması lazım.
+
+
+AGILE küçük işlere böl ve parça parça yap.
+
+-- (Req's - Design - Develop - Test) * 12 (12 haftalık iş için)
+
+
+Geleneksel yöntemde 12 aylık bir projede 11. ayda müşteriye verilecek 
+tek birşey yoktur.
+
+--------------------------------------------------------------------
+
+Agile - Scrum / Canban
+--------------------------------------------------------------------
+
+
+Fındık çiftçiliği:
+-----------------
+Agile olmaz. İklim şartını sağlaması gerekiyor.
+
+
+
+Hayvan çiftliği
+---------------------------------------
+Bir hayvancılık çiftliği. Agile olabilir.
+
+Hayvan sayısı ve çiftlik yeri seçilir. Bütçe ayarlanır.
+
+Buraya farklı noktalardan ulaşım olması lazım. 
+
+Hayvanların beslenmesi vesair gerekiyor. 
+
+Saman ve diğer şeylerin netleştirilmesi lazım.
+
+Süt besiciliği olabilir.
+
+
+
+
+----------------------------------------------------------
+Agile'la ilgili olarak:
+-------------------------
+Dikkat!::: Ara çıktısı nedir? 10'a bölebiliyor muyum, 20'e bölünebilir mi?
+
+Projenin Agile olabilmesi gerekir. Dikkat. 
+Belli projeler agile olmayabilir.
+Her çıktının agile'da son kullanıcıya hizmet etmesi lazım!
+
+Değişikliğe açık olun
