@@ -1,0 +1,193 @@
+Scrum'un 5 değer üzerinden rehberlik ettiği bir yapı:
+
+Sprint planning'le başlıyoruz.
+----------------------------------------------------
+
+Sprint backlog'a konulması
+Tasklerin çıkması gerekiyor. Sprint planningde bunu çıkarıyoruz.
+Proje yöneticisi, Development Team. Product Owner'a Scrum Master söyler. Dev Team
+'e de yönlendirme yapar.
+2 saat + 2 saat.
+Öğle yemeğine çıkarlar.
+Sprint Backlog'a koyuyor.
+Daily Scrum her gün 15 dakika yapıyorlar. 2. 
+
+Cuma günü öğleden sonra Sprint Review başlıyor. Product Owner'a review veriliyor.
+Kilit nokta var burada. Teslimat yeri burası. Product Owner'a teslim ediliyor.
+PO burada alıyor veya almıyor.
+Resmi bir onay vermesi gerekiyor. Definition of DONE. Burası patlak, şurası çatlak.
+Sprint Retrospective geliyor sonrasında geliyor.
+
+
+Biri Ürün konuşmak ikincisi birilerini suçlamak. 
+Retrospectivede yapılan hatalardan ikisi.
+Takım olmakda önemli. Dikkat!
+Sprint Retrospective ve Sprint Review aynı gün yapılır. 
+Ardından Sprint Planning 1, Sprint Planning 2 yapılabilir.
+
+"Scrum Guide" dikkat..
+
+Akıllıca çalışmak.
+
+İftar verilen alanda çalışan Belediye işçileri.
+
+
+Bir oyunumuz var.
+
+Bir takımın takımlaşması ile ilgili.
+
+Lego Workshop Plan
+Herkesin dokunup top toplamak işi.
+
+Producing Balls..
+
+
+- Team Performance
+-------------------
+
+Performance vs. Effectiveness.
+
+Önce azalıyor. Sonra yükseliyor. vesair.
+
+Yanlış insan yoktur. İnsanın yanlış yönlendirilmesi gibi birşey vardır.
+
+Agile'da dokümantasyon olur. Dokümansız da olur. Dikkat!
+
+Bilimin bu denli ilerlemesinin sebebi Matbaa'dır. Dikkat!..
+
+Code commenting'de dokümantasyondur. Dikkat!
+
+--------------------------------
+** Product Backlog - Users Story
+--------------------------------
+3-C = 1-Card/2-Conversation/3-Confirmation
+Post-It 3M'in markası.
+AS [WHO]
+I WANT [WHAT]
+SO THAT [WHY]
+----------------------------------
+Örnek: 
+Belediye Dilekçe Yönetim Sistemi
+Bir belediyeye dilekçe ile belli işlerin yapılması/şikayeti vesair.
+Product Owner:
+Scrum Master:
+Dev-Team:
+
+Örnek: Yukarıdaki örnek devam ediyor.
+1)
+Bir vatandaş olarak 
+Belli sorunumu Belediye ile paylaşmak istiyorum. 
+Bu sorunun olup olmadığı, varsa ne zaman çözüleceği, veya düzeltilecek birşeyse 
+ne zaman düzeleceğini belirtmek isteniyor.
+
+Dolayısıyla bu sorunumun çözülmesini bekliyorum.
+
+2)
+Bir çalışan olarak
+Belediyeyle paylaşılan/şikayet edilen işleri görmek ve bu işlerle ilgili 
+harekete geçmek istiyorum.
+Çalışmadığım zaman olmamasını istiyorum.
+
+3)
+Belediye  başkanı olarak
+Arzu edilen/Yapılması istenen şeylerin birer birer yazılmış halini görmek istiyorum.
+Hangi alanda ne iş yapıldığını görüp ortaya konulan performansı sergilemek istiyorum.
+
+
+Alihan: Üniversitede Yemek Sistemi. Admin, Yemek girilmesi, denildi.
+
+ROL hangi ekranları kullanabilecek hangisini kullanamayacak.
+-----------------------------------------------------------------
+
+Ben personel olarak sistemde eğitim talebi oluşturmak istiyorum.
+-----------------------------------------------------------------
+Örnek: Evrak Yönetim Sistemi
+-----------------------------------------------------------------
+Ben vatandaş olarak dilekçemi oluşturmak istiyorum.
+Ben belediye çalışanı olarak yapacağım işi görmek istiyorum.
+Ben belediye başkanı olarak atanan işlerin durumunu görmek istiyorum.
+
+
+-----------------------------------------------
+Alihan
+-----------------------------------------------
+Admin olarak öğrencilere hesap kartı oluşturayım.
+Admin olarak günlük yemekleri göstereyim.
+
+Serdar
+Rezervasyon Randevu sistemi
+-----------------------------------------------
+Kullanıcı olarak Randevu oluşturabileyim.
+
+-----------------------------------------------
+
+
+-----------------------------------------------
+Mina
+-----------------------------------------------
+Müşteri
+
+Veri Analisti
+Sistemdeki kullanan insanların grafiğini çıkarmak istiyor.
+
+Analiz bitmeden kodlama başlamaz diye birşey yok! Dikkat!
+
+------------------------------------------------------------------
+
+User Storynin detayı ve herhalükarda "Acceptance Criteria" olması gerekir...
+
+Örneğin:
+
+Banka Müşterisi olarak; ATM'den para çekmek istiyorum.
+Bankada sıra beklemek istemiyorum, mesai saatleri dışında da para çekmek istiyorum..
+
+--------------------------------------------------
+Bunu nasıl test edeceksin?
+--------------------------------------------------
+Notlar:
+Hesabı seçer, miktarı girer, sistem onay ekranı gösterir, kullanıcı onaylar,
+sistem kartı geri verir, parayı verir, giriş ekranını gösterir.
+Kabul Kriteri:
+- Kişi hesap bakiyesinin üzerinde para çekememelidir.
+- Günlük para çekme limitinin üzerinde para çekememelidir.
+- Kişinin talep ettiği miktara uygun küüpür yoksa, sistem en yakın üst değeri müş
+teriye önermelidir.
+---------------------------------------------------------
+
+US01
+-----------------------------------------------------
+Vatandaş olarak dilekçe oluşturmak istiyorum.
+
+Notlar:
+TC Kimlik numarası ile sisteme girer, dilekçenin tipini seçer, dilekçesini yazar, 
+otomatik kaydeder. Kullanıcı onayıyla sisteme giriş yapar.
+
+Kabul Kriteri:
+- Vatandaşın har zaman şikayet/öneri gibi ihityaçlarını alabilmelidir.
+- Girilen alanla ilgili olarak yeni bir talep geldiğinde önceki talebin bitmediğini belirtmelidir.
+- Önceki talep tamamlandığında yeni bir talep girebilmelidir.
+
+------------------------------------------------------
+Belediye Çalışanı olarak üzerine verilen işleri görmek istiyor.
+
+Notlar:
+Sisteme girilen dilekçelerin işe dönüşmesi halinde atanacak insanlara paslanması gerekir.
+
+
+Kabul Kriteri:
+- İşe dönüşen taleplerin/şikayetlerin belirtilen çalışana atanması gerekir.
+
+
+--------------------------------------------------------------
+Belediye Başkanı olarak verilen işlerin yüzdelerini görmek istiyor.
+
+Notlar:
+Sisteme girilen dilekçelerin izledikleri yola göre bitiş noktasını göstermesi gerekir.
+
+Kabul Kriteri:
+- Her vatandaşın girdiği dilekçenin izlenecek yol ve yöntemlerinin belirlenmesi 
+ve herkesin dilekçesinin belirtilen yerlerde bulunması gerekir.
+
+Dummy verilerin girilmesi.
+Task olarak test datalarının oluşturulması.
+Paging, Filtreleme, vesair olacak.
